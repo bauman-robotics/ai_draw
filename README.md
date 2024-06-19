@@ -1,6 +1,6 @@
 # Обучение и тестирование нейросети.
 
-![image](https://github.com/bauman-robotics/ai_draw/tree/main/view.png)
+![image alt](https://github.com/bauman-robotics/ai_draw/tree/main/view.png)
 
 ##1. Нарисовать букву
 	Нарисуйте букву латинского алфавита в графическом окне браузера.
